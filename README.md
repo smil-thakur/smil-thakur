@@ -6,8 +6,8 @@ Building microfrontends and AI-native products.
 
 ---
 
-**[Boardroom](https://github.com/smil-is-vibe-coding/boardroom)** — AI executives debate your startup idea in real time  
-**[Socially](https://github.com/smil-is-vibe-coding/socially)** — AI-powered resume & profile platform  
+**[Boardroom](https://github.com/smil-thakur/Boardroom.frontend)** — AI executives debate your startup idea in real time  
+**[Socially](https://github.com/smil-thakur/Socially)** — AI-powered resume & profile platform  
 
 ---
 
