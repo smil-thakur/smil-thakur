@@ -6,7 +6,7 @@ Building microfrontends and AI-native products.
 
 ---
 
-**[Boardroom](https://github.com/smil-thakur/Boardroom.frontend)** — AI executives debate your startup idea in real time  
+**[Snip](smil-thakur.github.io/Snip/)** — Short, focused notes on what you're learning   
 **[Socially](https://github.com/smil-thakur/Socially)** — AI-powered resume & profile platform  
 
 ---
