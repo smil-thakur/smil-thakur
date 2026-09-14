@@ -7,7 +7,7 @@ Building microfrontends and AI-native products.
 ---
 
 **[Snip](smil-thakur.github.io/Snip/)** — Short, focused notes on what you're learning   
-**[Socially](https://github.com/smil-thakur/Socially)** — AI-powered resume & profile platform  
+**[Save-thelink](https://save-thelink.netlify.app/)** — Link sharing and bookmarking platform  
 
 ---
 
