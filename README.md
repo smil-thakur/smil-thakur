@@ -1,6 +1,6 @@
 ### Smil Thakur — Frontend Engineer
 
-TypeScript · React · Angular · Python · Cpp
+TypeScript · React · Angular · Go · Cpp
 
 Building microfrontends and AI-native products.  
 
